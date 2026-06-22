@@ -1,0 +1,9 @@
+"Gene","Human_scRNA","Mouse_scRNA","Human_Spatial","Macrophage_Correlation","Consensus_Score"
+"C5AR1",1,1,1,1,4
+"CSF1R",1,1,0.5,1,3.5
+"PILRA",1,1,0.5,1,3.5
+"LILRB2",1,0,1,1,3
+"CLEC7A",1,1,0,0.5,2.5
+"TLR4",1,1,0,0,2
+"P2RX7",1,1,0,0,2
+"C3AR1",1,1,0,0,2
