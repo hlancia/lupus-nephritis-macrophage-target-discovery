@@ -16,6 +16,12 @@ to prioritize targets conserved across species and technologies.
 
 ---
 
+## Why This Project Matters
+
+This project demonstrates a target discovery workflow similar to those used in translational research and drug discovery programs. Rather than relying on a single dataset, targets were prioritized through independent validation across species (human and mouse) and technologies (single-cell and spatial transcriptomics), increasing confidence in biological relevance and translational potential.
+
+---
+
 ## Scientific Question
 
 Which inflammatory macrophage-associated targets are consistently associated with lupus nephritis across independent human and mouse datasets?
