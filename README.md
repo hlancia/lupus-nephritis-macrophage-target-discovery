@@ -125,6 +125,28 @@ Validation in an independent human spatial transcriptomics cohort (GSE263909) de
 
 ---
 
+## Limitations
+
+While the analysis identified robust candidate targets, several limitations should be considered:
+
+- Validation datasets were generated using different transcriptomic technologies, including single-cell RNA sequencing and digital spatial profiling.
+- Spatial transcriptomic regions represent mixed cellular populations and do not allow direct isolation of macrophages.
+- Cross-species validation is limited by differences between human and mouse immune biology and incomplete ortholog mapping.
+- Target prioritization was based on transcriptomic evidence and has not yet been functionally validated in vitro or in vivo.
+- Additional independent lupus nephritis cohorts would further strengthen confidence in target reproducibility.
+
+Despite these limitations, consistent evidence across independent human and mouse datasets supports prioritization of C5AR1, LILRB2, CSF1R, and PILRA as macrophage-associated therapeutic candidates in lupus nephritis.
+
+---
+
+## Translational Relevance
+
+The workflow developed in this project mirrors approaches commonly used in translational research and early-stage drug discovery. By combining cell-type-specific discovery, cross-species validation, and orthogonal validation using spatial transcriptomics, the analysis aims to prioritize targets with increased likelihood of biological and translational relevance.
+
+This framework is readily transferable to other autoimmune, inflammatory, or immune-mediated diseases.
+
+---
+
 ## Tools
 
 - R
