@@ -14,6 +14,8 @@ This workflow combines:
 
 to prioritize targets conserved across species and technologies.
 
+![Workflow](figures/Project_Workflow.png)
+
 ---
 
 ## Why This Project Matters
