@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figures/Figure6_Final_Target_Ranking.png" width="650">
+  <img src="figures/Figure2_Human_Lead_Targets_DotPlot.png" width="650">
 </p>
 
 <h1 align="center">
