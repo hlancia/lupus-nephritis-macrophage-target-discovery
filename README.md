@@ -265,7 +265,7 @@ All intermediate tables and publication-quality figures are generated automatica
 
 # Related Projects
 
-This repository is part of the **[AI Computational Immunology Portfolio]([https://github.com/lhyshem/AI-Computational-Immunology-Portfolio](https://github.com/hlancia/AI-Computational-Immunology-Portfolio))**.
+This repository is part of the **[AI Computational Immunology Portfolio](https://github.com/hlancia/AI-Computational-Immunology-Portfolio/tree/main)**.
 
 - Cross-Species Therapeutic Target Discovery in Lupus Nephritis
 - Cell–Cell Communication Analysis in Lupus Nephritis
