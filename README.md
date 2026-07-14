@@ -135,13 +135,15 @@ This multi-step strategy increases confidence in biologically meaningful therape
 
 # Main Results
 
-The pipeline generated:
+The computational workflow generated the following outputs:
 
-- Human inflammatory macrophage marker genes
-- Cross-species validation
-- Human spatial transcriptomic validation
+- Human inflammatory macrophage marker atlas
+- Cross-species validation of therapeutic targets
+- Independent spatial transcriptomic validation
 - Spatial macrophage correlation analysis
-- Final therapeutic target ranking
+- Integrated evidence-based therapeutic target ranking
+
+These analyses consistently prioritized macrophage-associated therapeutic candidates supported by independent biological evidence across datasets and technologies.
 
 ---
 
