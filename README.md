@@ -29,6 +29,16 @@ The project illustrates how reproducible computational biology can accelerate ta
 
 ---
 
+# Highlights 
+
+- Cross-species therapeutic target discovery workflow
+- Integration of three independent transcriptomic datasets
+- Human, mouse, and spatial validation
+- Reproducible end-to-end computational pipeline
+- Identification of C5AR1 as the highest-confidence therapeutic target
+
+---
+
 # Scientific Motivation
 
 Inflammatory macrophages play a central role in kidney injury during lupus nephritis.
